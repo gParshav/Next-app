@@ -1,7 +1,7 @@
 const Page = () => {
     return (
         <>
-            <h1>Event 1</h1>
+            <h1>Dynamic page</h1>
         </>
     )
 }
